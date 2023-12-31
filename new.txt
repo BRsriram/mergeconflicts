@@ -1,1 +1,1 @@
-city : b2 thj
+city : none
